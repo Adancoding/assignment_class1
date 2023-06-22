@@ -1,0 +1,29 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.avatar {
+    width: 500px;
+    height: 500px;
+}
+
+h1 { color: blueviolet; }
+
+h1 { background-color: #66414767;}
+
+
+h3 {color: brown;}
+
+a { all: unset;
+    border: 0.5px solid#8800f862;
+    padding: 6px 12px;
+    border-radius: 10px;
+    background-color: #8800f862;
+    color: white;
+}
+
+nav {
+
+    gap: 12px ;
+}
